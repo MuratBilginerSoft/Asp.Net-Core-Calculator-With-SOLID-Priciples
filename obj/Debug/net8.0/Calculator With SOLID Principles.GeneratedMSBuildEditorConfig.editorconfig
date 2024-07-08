@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Calculator_With_SOLID_Principles
+build_property.RootNamespace = Calculator_With_SOLID_Principles
+build_property.ProjectDir = C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\01 Github Projects\04 Full Stack\01 Asp.Net Core\Calculator With SOLID Principles\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\01 Github Projects\04 Full Stack\01 Asp.Net Core\Calculator With SOLID Principles
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merye/OneDrive/Masaüstü/Desktop/04 Projects/01 Github Projects/04 Full Stack/01 Asp.Net Core/Calculator With SOLID Principles/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o5ux4e1gsk

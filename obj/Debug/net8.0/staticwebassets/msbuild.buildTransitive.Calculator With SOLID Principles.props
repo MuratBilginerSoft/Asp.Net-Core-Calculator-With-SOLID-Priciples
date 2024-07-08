@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Calculator With SOLID Principles.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Calculator With SOLID Principles.props" />
+</Project>
